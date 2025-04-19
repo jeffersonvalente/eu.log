@@ -49,6 +49,7 @@ Este repositório é um acervo vivo de:
 | Case | Descrição | Link |
 |------|-----------|------|
 | 004 - Ponto de partida | Transição da linha de frente para automação e estabilidade real | [cases/004-ponto-de-partida.md](./cases/004-ponto-de-partida.md) |
+| 005 - Primeira automação | Quando o shell já não bastava — e o Ansible entrou em cena | [cases/005-primeira-automacao.md](./cases/005-primeira-automacao.md) |
 
 > Se você já sustentou sistemas no silêncio,  
 > já resolveu o que ninguém quis ver,  
