@@ -42,7 +42,7 @@ Este repositório é um acervo vivo de:
 | 000 - Primeira Linha | Suporte técnico e continuidade invisível em rede nacional de varejo | [cases/000-primeira-linha.md](./cases/000-primeira-linha.md) |
 | 001 - Linha de frente | Sustentação real entre 40 filiais e responsabilidade antes do crachá | [cases/001-linha-de-frente.md](./cases/001-linha-de-frente.md) |
 | 002 - Documentação Viva | Quando resolver não bastava — e criar referência virou hábito | [cases/002-documentacao-viva.md](./cases/002-documentacao-viva.md) |
-
+| 003 - Último script | Automação silenciosa, ponto final simbólico e a virada pra próxima fase | [cases/003-ultimo-script.md](./cases/003-ultimo-script.md) |
 
 
 > Se você já sustentou sistemas no silêncio,  
