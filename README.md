@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner-eu-log.png" alt="/eu.log banner" />
+  <img src="./banner-eu-log.png" alt="/eu.log banner"  width="600" />
 </p>
 
 Este é meu arquivo de log pessoal.
