@@ -52,6 +52,7 @@ Este repositório é um acervo vivo de:
 | 005 - Primeira automação | Quando o shell já não bastava — e o Ansible entrou em cena | [cases/005-primeira-automacao.md](./cases/005-primeira-automacao.md) |
 | 006 - Scripts do dia | Como pequenas automações viraram ferramentas do time | [cases/006-scripts-do-dia.md](./cases/006-scripts-do-dia.md) |
 | 007 - Silêncio antes do incidente | Quando o alerta veio antes do chamado — e tudo continuou funcionando | [cases/007-silencio-antes-do-incidente.md](./cases/007-silencio-antes-do-incidente.md) |
+| 008 - VPN na urgência | Dois dias, 150 máquinas, e uma transição emergencial feita no fio da infraestrutura | [cases/008-vpn-na-urgencia.md](./cases/008-vpn-na-urgencia.md) |
 
 
 > Se você já sustentou sistemas no silêncio,  
