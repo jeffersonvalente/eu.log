@@ -13,8 +13,11 @@ No início, eu fazia na mão.
 Depois, comecei a salvar os comandos em blocos reutilizáveis.  
 Logo, esses blocos viraram scripts — pequenos, diretos, documentados no cabeçalho.
 
-Com o tempo, eu tinha uma coleção de ferramentas internas que aceleravam tarefas que antes levavam 15 minutos.  
+Com o tempo, eu tinha uma coleção de ferramentas internas que aceleravam tarefas que antes levavam 15 minutos.
 Agora, levavam 30 segundos.
+
+Teve um que quase deu ruim — automatizei o restart de um serviço sem validar a dependência dele, e derrubei um processo em produção.
+Foi pequeno, contornável. Mas me ensinou que automatizar sem entender o sistema inteiro é só um erro mais rápido.
 
 Comecei a compartilhar com o time.  
 Sem fazer alarde, só jogava no grupo ou mandava direto pra quem precisava.  
