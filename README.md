@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-eu-log.png" alt="/eu.log banner" />
+  <img src="./banner-eu-log.png" alt="/eu.log banner" />
 </p>
 
 # 📘 eu.log
