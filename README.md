@@ -56,6 +56,12 @@ Este repositório é um acervo vivo de:
 | 009 - O sênior que eu treinei | Liderança sem título, reorganização de rede e sustento no silêncio | [cases/009-o-senior-que-eu-treinei.md](./cases/009-o-senior-que-eu-treinei.md) |
 | 010 - O limite | Quando o espaço pra crescer acabou — e a saída virou o único caminho real | [cases/010-o-limite.md](./cases/010-o-limite.md) |
 
+### 🧭 Fase 3 — Redes, backbone e limites humanos (infraestrutura de telecomunicações)
+
+| Case | Descrição | Link |
+|------|-----------|------|
+| 011 - Rede sem humanidade | Quando a rede era técnica — mas o ambiente era insustentável | [cases/011-rede-sem-humanidade.md](./cases/011-rede-sem-humanidade.md) |
+
 
 > Se você já sustentou sistemas no silêncio,  
 > já resolveu o que ninguém quis ver,  
