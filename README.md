@@ -37,7 +37,7 @@ Este repositório é um acervo vivo de:
 
 | Case | Descrição | Link |
 |------|-----------|------|
-| 001 - Primeira Linha | Suporte técnico e continuidade invisível em rede nacional de varejo | [cases/001-primeira-linha.md](./cases/001-primeira-linha.md) |
+| 000 - Primeira Linha | Suporte técnico e continuidade invisível em rede nacional de varejo | [cases/001-primeira-linha.md](./cases/001-primeira-linha.md) |
 
 > Se você já sustentou sistemas no silêncio,  
 > já resolveu o que ninguém quis ver,  
