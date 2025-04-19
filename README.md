@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner-eu-log.png" alt="/eu.log banner" />
+</p>
+
 # 📘 eu.log
 
 > Casos reais de bastidores na engenharia — e o que nunca coube no currículo.
