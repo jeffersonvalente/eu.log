@@ -40,7 +40,7 @@ Tudo no braço — com entrega e adaptação.
 Na época, ainda me chamavam de analista de infraestrutura.  
 Hoje, sei que aquele foi o momento em que virei DevOps.  
 Não no papel.  
-Mas na prática, no código, no mindset.
+Mas na prática, no código, na forma de pensar.
 
 Essa fase não me deu um novo crachá.  
 Mas me deu nome.  
