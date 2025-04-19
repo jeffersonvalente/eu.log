@@ -2,10 +2,6 @@
   <img src="./banner-eu-log.png" alt="/eu.log banner" />
 </p>
 
-# 📘 eu.log
-
-> Casos reais de bastidores na engenharia — e o que nunca coube no currículo.
-
 Este é meu arquivo de log pessoal.
 
 Onde registro decisões técnicas, entregas invisíveis e responsabilidades silenciosas que sustentaram ambientes, times e resultados — mesmo quando ninguém viu.
