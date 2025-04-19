@@ -51,6 +51,7 @@ Este repositório é um acervo vivo de:
 | 004 - Ponto de partida | Transição da linha de frente para automação e estabilidade real | [cases/004-ponto-de-partida.md](./cases/004-ponto-de-partida.md) |
 | 005 - Primeira automação | Quando o shell já não bastava — e o Ansible entrou em cena | [cases/005-primeira-automacao.md](./cases/005-primeira-automacao.md) |
 | 006 - Scripts do dia | Como pequenas automações viraram ferramentas do time | [cases/006-scripts-do-dia.md](./cases/006-scripts-do-dia.md) |
+| 007 - Silêncio antes do incidente | Quando o alerta veio antes do chamado — e tudo continuou funcionando | [cases/007-silencio-antes-do-incidente.md](./cases/007-silencio-antes-do-incidente.md) |
 
 
 > Se você já sustentou sistemas no silêncio,  
