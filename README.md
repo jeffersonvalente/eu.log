@@ -33,11 +33,13 @@ Este repositório é um acervo vivo de:
 
 ---
 
-## 🔗 Casos
+## 🔗 Casos registrados
+
+### 🧭 Fase 1 — Primeiros passos na infraestrutura (rede nacional de varejo)
 
 | Case | Descrição | Link |
 |------|-----------|------|
-| 000 - Primeira Linha | Suporte técnico e continuidade invisível em rede nacional de varejo | [cases/001-primeira-linha.md](./cases/001-primeira-linha.md) |
+| 000 - Primeira Linha | Suporte técnico e continuidade invisível em rede nacional de varejo | [cases/000-primeira-linha.md](./cases/000-primeira-linha.md) |
 
 > Se você já sustentou sistemas no silêncio,  
 > já resolveu o que ninguém quis ver,  
