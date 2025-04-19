@@ -54,6 +54,7 @@ Este repositório é um acervo vivo de:
 | 007 - Silêncio antes do incidente | Quando o alerta veio antes do chamado — e tudo continuou funcionando | [cases/007-silencio-antes-do-incidente.md](./cases/007-silencio-antes-do-incidente.md) |
 | 008 - VPN na urgência | Dois dias, 150 máquinas, e uma transição emergencial feita no fio da infraestrutura | [cases/008-vpn-na-urgencia.md](./cases/008-vpn-na-urgencia.md) |
 | 009 - O sênior que eu treinei | Liderança sem título, reorganização de rede e sustento no silêncio | [cases/009-o-senior-que-eu-treinei.md](./cases/009-o-senior-que-eu-treinei.md) |
+| 010 - O limite | Quando o espaço pra crescer acabou — e a saída virou o único caminho real | [cases/010-o-limite.md](./cases/010-o-limite.md) |
 
 
 > Se você já sustentou sistemas no silêncio,  
