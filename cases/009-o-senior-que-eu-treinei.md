@@ -17,9 +17,13 @@ Fui eu quem o treinou.
 Na prática, eu era o sênior dele.  
 Mas ele era o meu sênior no papel.
 
-Continuei fazendo o que precisava ser feito.  
-Mantendo as entregas em dia.  
+Continuei fazendo o que precisava ser feito.
+Mantendo as entregas em dia.
 Cuidando de quem realmente precisava de suporte — inclusive ele.
+
+Na época, achei que meu trabalho falava por mim.
+Mas hoje entendo que, às vezes, visibilidade também é entrega.
+E se tu não mostrar o que tá sustentando, alguém vai subir no palco por ti — mesmo sem ter montado o cenário.
 
 Um mês depois, chegou um estagiário.  
 E com ele, o ciclo se repetiu.  
