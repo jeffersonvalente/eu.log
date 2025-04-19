@@ -44,6 +44,11 @@ Este repositório é um acervo vivo de:
 | 002 - Documentação Viva | Quando resolver não bastava — e criar referência virou hábito | [cases/002-documentacao-viva.md](./cases/002-documentacao-viva.md) |
 | 003 - Último script | Automação silenciosa, ponto final simbólico e a virada pra próxima fase | [cases/003-ultimo-script.md](./cases/003-ultimo-script.md) |
 
+### 🧭 Fase 2 — Suporte técnico e automação em ambientes de produção (infraestrutura de hospedagem web)
+
+| Case | Descrição | Link |
+|------|-----------|------|
+| 004 - Ponto de partida | Transição da linha de frente para automação e estabilidade real | [cases/004-ponto-de-partida.md](./cases/004-ponto-de-partida.md) |
 
 > Se você já sustentou sistemas no silêncio,  
 > já resolveu o que ninguém quis ver,  
