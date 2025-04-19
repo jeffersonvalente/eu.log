@@ -1,4 +1,4 @@
-# 🧱 Case 001 — Primeira Linha: Suporte, Continuidade e Expectativas
+# 🧱 Primeira Linha: Suporte, Continuidade e Expectativas
 
 Meu primeiro estágio foi dentro da área de infraestrutura de uma grande rede de varejo.
 
