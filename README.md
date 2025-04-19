@@ -62,6 +62,12 @@ Este repositório é um acervo vivo de:
 |------|-----------|------|
 | 011 - Rede sem humanidade | Quando a rede era técnica — mas o ambiente era insustentável | [cases/011-rede-sem-humanidade.md](./cases/011-rede-sem-humanidade.md) |
 
+### 🧭 Fase 4 — Engenharia de infraestrutura como identidade (transformação em ambiente corporativo)
+
+| Case | Descrição | Link |
+|------|-----------|------|
+| 012 - A virada | Onde monitorar serviços virou só o começo — e o DevOps nasceu no improviso | [cases/012-a-virada.md](./cases/012-a-virada.md) |
+
 
 > Se você já sustentou sistemas no silêncio,  
 > já resolveu o que ninguém quis ver,  
