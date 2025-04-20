@@ -2,38 +2,64 @@
   <img src="./banner-eu-log.png" alt="/eu.log banner"  width="600" />
 </p>
 
-Este é meu arquivo de log pessoal.
-
-Onde registro decisões técnicas, entregas invisíveis e responsabilidades silenciosas que sustentaram ambientes, times e resultados — mesmo quando ninguém viu.
-  
-É o que ficou salvo quando o terminal fechou.
+> Esse repositório não é um currículo.  
+> É um inventário técnico-emocional.  
+> Um log das coisas que segurei, construí ou sobrevivi — mesmo quando ninguém viu.
 
 ---
 
-## 📂 Sobre este repositório
+## 🧭 O que é isso?
 
-Durante muito tempo, entreguei no silêncio.
+O `/eu.log` é um acervo de casos reais vividos ao longo da minha trajetória como profissional de infraestrutura, suporte, DevOps e SRE.  
+Mas também é mais que isso.
 
-- Automatizei tarefas que ninguém tinha tempo de fazer  
-- Dei suporte em deploys críticos mesmo sem cargo de liderança  
-- Conectei ferramentas, evitei falhas, antecipei dores operacionais  
-- Estruturei visão de plataforma antes de saber que isso tinha nome
+É um lugar onde eu documento **as entregas que não cabem em frameworks**, **as decisões que não foram só técnicas**, e **as histórias que moldaram a forma como eu trabalho — e quem eu sou.**
 
-Mas nada disso virou projeto público.  
-E, por um tempo, achei que talvez nem fosse relevante.
-
-Agora, decidi documentar.
-
-Este repositório é um acervo vivo de:
-
-- 🛠️ Casos de **liderança sem crachá**  
-- ⚙️ Soluções criadas antes de existirem ferramentas “oficiais”  
-- 📈 Integrações, automações e reflexões técnicas com visão de sistema  
-- 🧠 Bastidores reais de quem veio do suporte, passou por infraestrutura, e virou plataforma
+Cada entrada aqui é um pedaço do bastidor que quase nunca aparece:
+- Turnos de plantão onde o sistema só ficou de pé porque alguém não dormiu
+- Scripts escritos no desespero que viraram padrão
+- Incidentes evitados que ninguém nunca soube que existiram
+- Experiências técnicas atravessadas por cansaço, urgência, frustração e reinvenção
 
 ---
 
-## 🔗 Casos registrados
+## 🔎 Como isso pode ser lido
+
+O `/eu.log` não segue um formato tradicional de currículo, blog técnico ou portfólio.
+
+Mas pode ser útil de várias formas — dependendo de quem lê e do que procura.
+
+Talvez seja:
+- Um espelho pra quem já segurou o caos sem script
+- Um acervo pra lembrar que estabilidade também é entrega
+- Um case real pra quem quer entender mais que a stack
+- Um material de apoio pra recrutadores que valorizam contexto
+- Uma forma de validar o que nunca virou headline
+- Uma âncora identitária em meio à reinvenção constante
+
+---
+
+## 🛠️ O que tem aqui?
+
+- Casos curtos e diretos, divididos por fases e contextos
+- Escrita livre, pessoal, com foco em impacto e bastidor
+- Nenhum buzzword desnecessário
+- Nenhuma tentativa de autopromoção
+
+---
+
+## 📌 Por que isso existe?
+
+Porque **muita coisa importante da vida profissional não vira promoção, nem badge, nem commit — mas vira cicatriz**.  
+E se eu não registrar, se perde.
+
+Eu escrevo pra não esquecer.  
+Escrevo pra quem viveu isso também, mesmo que nunca tenha colocado em palavras.  
+E escrevo porque todo sistema confiável tem que ter um log — esse é o meu.
+
+---
+
+## 📚 Entradas disponíveis
 
 ### 🧭 Fase 1 — Primeiros passos na infraestrutura (rede nacional de varejo)
 
@@ -68,11 +94,6 @@ Este repositório é um acervo vivo de:
 |------|-----------|------|
 | 012 - A virada | Onde monitorar serviços virou só o começo — e o DevOps nasceu no improviso | [cases/012-a-virada.md](./cases/012-a-virada.md) |
 
+---
 
-> Se você já sustentou sistemas no silêncio,  
-> já resolveu o que ninguém quis ver,  
-> ou já segurou o time quando ninguém percebeu...  
->  
-> então talvez você também tenha um log parecido com esse.
-
-— Jefferson Valente
+Se em algum ponto isso te servir — como referência, inspiração, ou só pra lembrar que você não tá sozinho — então esse log já valeu.
