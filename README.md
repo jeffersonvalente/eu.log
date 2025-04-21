@@ -93,6 +93,8 @@ E escrevo porque todo sistema confiável tem que ter um log — esse é o meu.
 | Case | Descrição | Link |
 |------|-----------|------|
 | 012 - A virada | Onde monitorar serviços virou só o começo — e o DevOps nasceu no improviso | [cases/012-a-virada.md](./cases/012-a-virada.md) |
+| 013 - Linha cruzada, entrega certa | Quando ninguém resolvia a rede — e ela parou de cair | [cases/013-linha-cruzada-entrega-certa.md](./cases/013-linha-cruzada-entrega-certa.md) |
+
 
 ---
 
