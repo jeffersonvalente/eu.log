@@ -1,3 +1,5 @@
+# 013 — Linha cruzada entrega certa.md
+
 A rede da sede não se sustentava.
 
 Instabilidade, segmentação errada, switch com senha perdida, DHCP e DNS fora de controle.  
